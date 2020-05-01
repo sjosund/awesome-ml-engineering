@@ -14,7 +14,7 @@
 
 ## ML model training
 - [Horovod, distributed training framework🛠](https://github.com/horovod/horovod)
-- [Scalable Deep Learning on Distributed Infrastructures: Challenges, Techniques and Tools 🎓](https://arxiv.org/abs/1903.11314)
+- [Scalable Deep Learning on Distributed Infrastructures: Challenges, Techniques and Tools (Sep 2019) 🎓](https://arxiv.org/abs/1903.11314)
 
 ## DevOps
 - [Docker Mastery: with Kubernetes +Swarm from a Docker Captain 📺](https://www.udemy.com/course/docker-mastery/)
