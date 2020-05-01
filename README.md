@@ -8,11 +8,13 @@
 - [Building and Managing a Centralized Kubeflow Platform at Spotify (Nov 2019) 📺](https://www.youtube.com/watch?v=m9XhsnNSMAI)
 - [Engineering Systems for Real-Time Predictions @DoorDash (Dec 2018) 📺](https://www.youtube.com/watch?v=sEZsIUBIhNk)
 
-## ML systems design
+## ML systems design & Applications
 - [One Model At A Time: Integrating And Running Deep Learning Models In Production At EyeEm 📄](http://highscalability.com/blog/2017/10/23/one-model-at-a-time-integrating-and-running-deep-learning-mo.html)
 - [A booklet on ML systems design with exercises 📚](https://github.com/chiphuyen/machine-learning-systems-design)
 ### CTR
 - [Large Scale CTR Prediction Lessons Learned @ Yelp (Aug 2016) 📺](https://www.youtube.com/watch?v=zbAuoFUdjAI)
+### Fraud detection
+- [Deep Learning Applications to Online Payment Fraud Detection @ PayPal (Apr 2019) 📺](https://www.youtube.com/watch?v=M1iKFlERRWk)
 
 ## ML model training
 - [Horovod, distributed training framework🛠](https://github.com/horovod/horovod)
