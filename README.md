@@ -31,6 +31,8 @@
 - [A Taste of GPU Compute 📺](https://www.youtube.com/watch?v=eqkAaplKBc4)
 
 ## Software engineering
+- [Hidden Technical Debt in Machine Learning Systems (2015) 🎓](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf&ved=2ahUKEwjnvv_igIrpAhXM7Z4KHfonD_EQFjAAegQIBBAB&usg=AOvVaw1IeD40kmHcz6tKfW57oZjb)
+- [Nitpicking Machine Learning Technical Debt (2020) 📄](https://matthewmcateer.me/blog/machine-learning-technical-debt/)
 - [A Philosophy of Software Design 📚](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout-ebook/dp/B07N1XLQ7D)
 
 ## Bonus
