@@ -1,6 +1,9 @@
 # awesome-ml-engineering
 
 ## MLOps
+- [Using GitHub Actions for MLOps & Data Science (June 2020) 📄](https://github.blog/2020-06-17-using-github-actions-for-mlops-data-science/)
+- [Machine learning operations with GitHub Actions and Kubernetes - GitHub Universe 2019 📺](https://www.youtube.com/watch?v=Ll50l3fsoYs)
+- [GitHub Machine Learning Ops 🛠](http://mlops-github.com/)
 - [MLOps: Continuous delivery and automation pipelines in machine learning 📄](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
 - [Continuous Delivery for Machine Learning 📄](https://martinfowler.com/articles/cd4ml.html)
 - [ml-ops.org](https://ml-ops.org/)
